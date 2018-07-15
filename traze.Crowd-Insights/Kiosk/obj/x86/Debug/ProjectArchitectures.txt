@@ -1,0 +1,3 @@
+C:\Users\v-alaure\Desktop\HackATren\IntelligentKiosk\Cognitive-Samples-IntelligentKiosk-master\Kiosk\IntelligentKioskSample.csproj;x86
+C:\Users\v-alaure\Desktop\HackATren\IntelligentKiosk\Cognitive-Samples-IntelligentKiosk-master\Kiosk\KioskRuntimeComponent\KioskRuntimeComponent.csproj;neutral
+C:\Users\v-alaure\Desktop\HackATren\IntelligentKiosk\Cognitive-Samples-IntelligentKiosk-master\Kiosk\ServiceHelpers\ServiceHelpers.csproj;neutral
