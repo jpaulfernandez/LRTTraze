@@ -1,0 +1,1 @@
+{"version":3,"file":"error.js","sourceRoot":"","sources":["../../../src/sirius/domain/error.ts"],"names":[],"mappings":";;AAAA,MAAM,SAAS,GAAG,CAAC,GAAU;IAC3B,MAAM,CAAC,IAAI,KAAK,CAAC,GAAG,CAAC,CAAA;AACvB,CAAC,CAAA;AAED,kBACA;IACC,mBAAmB,EAAE,SAAS,CAAC,uBAAuB,CAAC;CACvD,CAAA"}
